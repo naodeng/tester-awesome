@@ -1,12 +1,8 @@
-title: 测试建模：Google ACC
-description: ACC（Attributes Components Capability）是Google测试团队使用的一种建模方法，用来快速地建立产品的模型，以指导下一步的测试计划和设计。
-date: 2016-08-28 13:00:16
-categories: 测试设计
-tags: 测试设计
+测试建模：Google ACC
 ---
 ACC（Attributes Components Capability）是Google测试团队使用的一种建模方法，用来快速地建立产品的模型，以指导下一步的测试计划和设计。
 在Google内部，ACC得到较普遍的应用，一些工程师还开发了支持ACC模型的Web应用，并将其开源。本文将介绍ACC的内容，所引用的Google+的例子摘录自《How Google Tests Software》一书。此外，本文还将使用启发式测试策略模型（Heuristic Test Strategy Model，简称HTSM）来分析ACC。
-<!--more-->
+
 运用ACC建模的第一步是确定产品的Attributes（属性）。
 ---
 
