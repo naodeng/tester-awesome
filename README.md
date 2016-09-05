@@ -24,6 +24,8 @@ Unix时间戳转换：http://unixtime.51240.com/
 
 Unicode编码转换：http://tool.chinaz.com/Tools/Unicode.aspx
 
+Redis客户端工具：https://github.com/uglide/RedisDesktopManager
+
 其他在线工具：http://tool.oschina.net/
 
 #### 测试之外：
