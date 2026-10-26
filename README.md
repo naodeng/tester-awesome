@@ -26,6 +26,8 @@ Unicode编码转换：http://tool.chinaz.com/Tools/Unicode.aspx
 
 Redis客户端工具：https://github.com/uglide/RedisDesktopManager
 
+agent-qa：[官网](https://vostride.com) — 支持 Web、Android 和 iOS 的 AI 自动化测试工具，提供 CLI/MCP/Skills，结合持久记忆与经验证的自我改进复用测试经验。
+
 其他在线工具：http://tool.oschina.net/
 
 #### 测试之外：
